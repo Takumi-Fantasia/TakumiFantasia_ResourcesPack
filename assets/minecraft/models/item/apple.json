@@ -8,6 +8,12 @@
     {"predicate": {"custom_model_data":1}, "model": "minecraft:item/redportal"},
     {"predicate": {"custom_model_data":2}, "model": "minecraft:item/wing"},
     {"predicate": {"custom_model_data":3}, "model": "minecraft:item/hello"},
-    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/warning"}
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/warning"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/shigen_gate"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/welcome_to_server"},
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/takumifantasia_icon"},
+    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/shigen_nether_gate"},
+    {"predicate": {"custom_model_data":9}, "model": "minecraft:item/shigen_end_gate"}
+
   ]
 }
